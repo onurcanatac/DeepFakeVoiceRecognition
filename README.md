@@ -5,4 +5,10 @@ CNN and ResNet models are employed to differentiate real audio from AI-generated
 
 ![image](https://github.com/user-attachments/assets/0130848e-de65-41d4-9f2c-bc53cf284b0f)
 
-[Kaggle dataset](https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition) is reachable through the link. 
+[Kaggle dataset](https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition) is reachable through the link.
+
+The project contributors are:
+* Onurcan Ataç
+* Kutay Şenyiğit
+* Alperen Utku Yalçın
+* Oğuz Kuyucu
